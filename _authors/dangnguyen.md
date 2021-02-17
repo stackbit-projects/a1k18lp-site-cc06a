@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: thiagorossener
+name: Nguyen Hai Dang
 display_name: Thiago Rossener
 position: Chief Editor
 bio: Just a developer.
