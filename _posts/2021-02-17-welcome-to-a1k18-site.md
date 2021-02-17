@@ -1,7 +1,7 @@
 ---
 date: 2021-02-17T17:00:00.000Z
 layout: post
-title: Welcome to A1
+title: Welcome to A1K18 
 subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
