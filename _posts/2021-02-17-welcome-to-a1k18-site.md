@@ -9,7 +9,7 @@ description: >-
 image: >-
   https://github.com/DangDev/DangDev.github.io/blob/Page/assets/images/head.jpg
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://github.com/DangDev/DangDev.github.io/blob/Page/assets/images/head.jpg
 category: blog
 tags:
   - welcome
