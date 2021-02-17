@@ -7,7 +7,7 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://github.com/DangDev/DangDev.github.io/blob/Page/assets/images/head.jpg
+  https://raw.githubusercontent.com/DangDev/DangDev.github.io/Page/assets/images/head.jpg
 optimized_image: >-
   https://github.com/DangDev/DangDev.github.io/blob/Page/assets/images/head.jpg
 category: blog
