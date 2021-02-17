@@ -8,7 +8,6 @@ image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
 category: life
 tags:
-  - welcome
   - books
   - read
 author: thiagorossener
