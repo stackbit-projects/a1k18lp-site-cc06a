@@ -7,7 +7,7 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://github.com/DangDev/DangDev.github.io/blob/Page/assets/images/head.jpg
 optimized_image: >-
   https://github.com/DangDev/DangDev.github.io/blob/Page/assets/images/head.jpg
 category: blog
